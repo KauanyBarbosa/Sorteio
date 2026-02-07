@@ -1,0 +1,29 @@
+
+
+@import url('https://fonts.googleapis.com/css2?family=Cherry+Bomb+One&family=Comic+Relief:wght@400;700&family=Limelight&family=Montserrat:ital,wght@0,100..900;1,100..900&family=National+Park:wght@200..800&family=Playfair+Display+SC:ital,wght@0,400;0,700;0,900;1,400;1,700;1,900&family=Raleway:ital,wght@0,100..900;1,100..900&display=swap');.btn-grad {background-image: linear-gradient(to right, #ffb1b1 0%, #f84113  40%, #ff7300  100%)}
+.btn-grad {
+   margin: 10px;
+   padding: 15px 45px;
+   text-align: center;
+   text-transform: uppercase;
+   transition: 0.5s;
+   font-family: "Cherry Bomb One", system-ui;
+   background-size: 200% auto;
+   color: white;          
+   box-shadow: 0 0 20px #eee;
+   border-radius: 10px;
+   border: hidden;
+   
+ }
+
+ .btn-grad:hover {
+   background-position: right center; /* change the direction of the change here */
+   color: #fff;
+   text-decoration: none;
+ }
+h2,h3{
+    font-family: "Comic Relief", system-ui;
+
+ }
+
+
